@@ -1,0 +1,20 @@
+1|0|help
+2|0|wifi status
+3|0|wifi join 401 82562580
+4|0|ifconfig
+5|0|ping 192.168.199.106
+6|0|hq_set_mac 00-20-1C-29-00-06
+7|0|
+8|0|hq_set_server_host 10.42.0.29
+9|0|hq_set_server_host 10.42.0.33
+10|0|hq_set_mac 04-20-1c-29-00-04
+11|0|
+12|0|wifi join HQ_SIP_TEST 12345678
+13|0|
+14|0|
+15|0|
+16|0|
+17|0|
+18|0|
+19|0|hq_param_default
+20|0|reboot
